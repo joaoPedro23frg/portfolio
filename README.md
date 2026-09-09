@@ -1,4 +1,6 @@
-# 📊 Simulador de Investimentos
+# 📚 Portfólio de Projetos - Excel com IA e Claude
+
+## 📊 Projeto 1 — Simulador de Investimentos
 
 ## 📌 Sobre o projeto
 
@@ -159,4 +161,121 @@ simulador-de-investimentos/
     ├── simulacao2.png
     ├── tela_cheia.png
     ├── tela_inicial.png
-    └── tela_inicial2.png
+    └── tela_inicial2.pn
+```
+---
+
+# 📊 Projeto 2 — FlipFlip | Imposto de Renda
+
+## 📌 Sobre o projeto
+
+O FlipFlip é uma planilha desenvolvida no Microsoft Excel com o objetivo de organizar informações financeiras e facilitar o levantamento de dados necessários para a declaração do Imposto de Renda.
+
+A ferramenta reúne informações pessoais do titular, informes de rendimentos bancários, entradas financeiras e despesas, permitindo centralizar os dados em um único arquivo.
+
+---
+
+## 🎯 Objetivo
+
+O objetivo do projeto é facilitar a organização das informações financeiras utilizadas na preparação da declaração do Imposto de Renda, tornando o processo mais estruturado e permitindo uma visualização mais clara dos dados.
+
+---
+
+## ⚙️ Funcionalidades
+
+A planilha possui diferentes áreas para organização das informações:
+
+- 👤 Cadastro dos dados do titular;
+- 🏦 Registro de informes de rendimentos bancários;
+- 💰 Organização dos valores disponíveis em diferentes instituições financeiras;
+- 📥 Registro de entradas financeiras;
+- 📤 Registro de despesas;
+- 📅 Organização das informações por data;
+- 🗂️ Classificação das movimentações por categoria;
+- 📊 Consolidação das informações financeiras;
+- 📎 Organização de referências e documentos relacionados aos dados informados.
+
+---
+
+## 📑 Estrutura da planilha
+
+O projeto é dividido em diferentes abas para facilitar a organização das informações.
+
+### 👤 TÍTULAR
+
+Área destinada ao preenchimento dos dados pessoais do titular, como nome, CPF, data de nascimento, título de eleitor, cônjuge e endereço.
+
+### 🏦 INFORMES
+
+Área destinada ao registro dos informes de rendimentos bancários, permitindo informar diferentes instituições financeiras e seus respectivos valores.
+
+### 📊 PLANILHA DE APOIO
+
+Área utilizada como apoio para organização e seleção das instituições bancárias.
+
+### 🧾 NOTAS
+
+Área destinada ao registro das entradas e despesas financeiras, permitindo organizar informações por data, categoria e valor.
+
+---
+
+## 🖥️ Demonstração
+
+### Dados do titular
+
+![Dados do titular](images/flipflip/titular.png)
+
+### Informes de rendimentos
+
+![Informes de rendimentos](images/flipflip/informes.png)
+
+### Organização das informações financeiras
+
+![Organização financeira](images/flipflip/notas.png)
+
+---
+
+## 🛠️ Ferramentas utilizadas
+
+- Microsoft Excel;
+- Fórmulas e funções do Excel;
+- Organização e validação de dados;
+- Tabelas;
+- Recursos de Inteligência Artificial;
+- GitHub para documentação e organização do projeto.
+
+---
+
+## 🤖 Utilização de Inteligência Artificial
+
+A Inteligência Artificial foi utilizada como ferramenta de apoio durante o desenvolvimento do projeto, auxiliando na organização das ideias, estruturação da solução, revisão das informações e documentação da atividade.
+
+As informações e resultados foram analisados e validados durante o desenvolvimento da planilha.
+
+---
+
+## 📚 Aprendizados
+
+O desenvolvimento do FlipFlip proporcionou a aplicação prática de conhecimentos relacionados à organização de dados no Excel, utilização de fórmulas, estruturação de planilhas e criação de uma ferramenta voltada para a organização financeira.
+
+O projeto também permitiu compreender como o Excel pode ser utilizado para centralizar diferentes informações e tornar processos de organização financeira mais simples e estruturados.
+
+Além disso, a atividade contribuiu para o desenvolvimento de conhecimentos relacionados à utilização de Inteligência Artificial como ferramenta de apoio na criação de soluções no Excel.
+
+---
+
+## ⚠️ Observação
+
+Este projeto possui finalidade exclusivamente educacional e acadêmica.
+
+A planilha tem como objetivo auxiliar na organização das informações e não substitui orientação de um profissional contábil ou fiscal.
+
+---
+
+## 📁 Arquivo do projeto
+
+A planilha completa está disponível neste repositório:
+
+**[FlipFlip.xlsx](FlipFlip.xlsx)**
+
+---
