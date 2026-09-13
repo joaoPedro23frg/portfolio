@@ -279,3 +279,142 @@ A planilha completa está disponível neste repositório:
 **[FlipFlip.xlsx](FlipFlip.xlsx)**
 
 ---
+
+# 🎮 Projeto 3 — Xbox Game Pass Dashboard
+
+## 📌 Sobre o projeto
+
+Este projeto consiste na criação de um **Dashboard de vendas e assinaturas do Xbox Game Pass**, desenvolvido no Microsoft Excel.
+
+A ferramenta foi construída a partir de uma base de dados contendo informações relacionadas aos assinantes, planos contratados, valores das assinaturas, renovação automática e serviços adicionais.
+
+O projeto utiliza uma estrutura organizada em diferentes abas, separando os dados, os recursos visuais e os cálculos utilizados para alimentar o Dashboard.
+
+---
+
+## 🎯 Objetivo
+
+O objetivo do projeto é transformar uma base de dados de assinaturas em uma **visualização clara e organizada**, permitindo analisar informações relacionadas às vendas e aos serviços contratados pelos assinantes do Xbox Game Pass.
+
+A construção do Dashboard também teve como objetivo aplicar conhecimentos de organização de dados, cálculos, análise e visualização de informações no Excel.
+
+---
+
+## 🗂️ Estrutura do projeto
+
+A planilha foi organizada em quatro áreas principais:
+
+### 🎨 Assets
+
+A aba **Assets** foi utilizada como apoio visual para o projeto, contendo elementos como:
+
+- Paleta de cores;
+- Cores utilizadas no Dashboard;
+- Logos;
+- Ícones;
+- Elementos visuais.
+
+### 📋 Bases
+
+A aba **Bases** contém os dados utilizados para a construção do Dashboard.
+
+Entre as informações disponíveis estão:
+
+- ID do assinante;
+- Nome;
+- Plano contratado;
+- Data de início;
+- Renovação automática;
+- Preço da assinatura;
+- Tipo de assinatura;
+- EA Play Season Pass;
+- Valor do EA Play Season Pass;
+- Minecraft Season Pass;
+- Valor do Minecraft Season Pass;
+- Valor de cupom;
+- Valor total.
+
+### 🧮 Cálculos
+
+A aba **Cálculos** foi utilizada para realizar os cálculos e consolidações necessários para alimentar o Dashboard.
+
+Essa área contém informações relacionadas aos tipos de assinatura e aos valores dos serviços adicionais contratados.
+
+### 📊 Dashboard
+
+A aba **Dashboard** apresenta a visualização final das informações processadas.
+
+O Dashboard foi desenvolvido com foco em facilitar a interpretação dos dados de vendas e assinaturas do Xbox Game Pass.
+
+---
+
+## 📊 Análises realizadas
+
+A partir da base de dados, foram realizadas análises relacionadas a:
+
+- Tipos de planos;
+- Tipos de assinatura;
+- Renovação automática;
+- Valores das assinaturas;
+- Contratação do EA Play Season Pass;
+- Contratação do Minecraft Season Pass;
+- Valores totais;
+- Distribuição das informações em um Dashboard.
+
+---
+
+## 🖥️ Demonstração
+
+### 🎮 Dashboard Xbox Game Pass
+
+![Dashboard Xbox Game Pass](images/xbox/dashboard.png)
+
+---
+
+## 🛠️ Ferramentas utilizadas
+
+- Microsoft Excel;
+- Organização e tratamento de dados;
+- Fórmulas e funções do Excel;
+- Tabelas;
+- Cálculos;
+- Dashboard;
+- Gráficos e elementos visuais;
+- Recursos de Inteligência Artificial;
+- GitHub para documentação e organização do projeto.
+
+---
+
+## 🤖 Utilização de Inteligência Artificial
+
+A Inteligência Artificial foi utilizada como ferramenta de apoio durante o desenvolvimento do projeto, auxiliando na organização das ideias, estruturação da solução, documentação e aprimoramento da apresentação das informações.
+
+As informações e resultados utilizados no projeto foram analisados e validados durante o desenvolvimento da atividade.
+
+---
+
+## 📚 Aprendizados
+
+O desenvolvimento deste projeto possibilitou a aplicação prática de conhecimentos relacionados à organização e análise de dados no Excel, criação de cálculos e desenvolvimento de Dashboards.
+
+A separação da planilha em áreas de **Assets, Bases, Cálculos e Dashboard** também permitiu compreender a importância da organização dos dados e da separação entre informações de origem, cálculos e apresentação dos resultados.
+
+O projeto também contribuiu para o desenvolvimento de conhecimentos relacionados à utilização de recursos de Inteligência Artificial como apoio na criação de soluções utilizando o Excel.
+
+---
+
+## ⚠️ Observação
+
+Este projeto possui finalidade exclusivamente educacional e acadêmica.
+
+Os dados utilizados têm finalidade de demonstração e aprendizado, não representando necessariamente dados reais ou oficiais da Microsoft/Xbox.
+
+---
+
+## 📁 Arquivo do projeto
+
+A planilha completa está disponível neste repositório:
+
+**[base xbox.xlsx](base%20xbox.xlsx)**
+
+---
