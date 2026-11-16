@@ -418,3 +418,136 @@ A planilha completa está disponível neste repositório:
 **[base xbox.xlsx](base%20xbox.xlsx)**
 
 ---
+🏎️ Projeto 4 — Porsche Sales Intelligence | Análise de Vendas
+
+📌 Sobre o projeto
+
+O Porsche Sales Intelligence é um projeto de análise de dados desenvolvido a partir de uma base de vendas de veículos Porsche, utilizando Microsoft Excel e uma dashboard interativa construída com HTML, CSS e JavaScript.
+
+O projeto utiliza uma base de 100 registros de vendas, permitindo explorar informações comerciais relacionadas aos modelos dos veículos, anos de fabricação/modelo, localização geográfica e formas de pagamento.
+
+A dashboard foi desenvolvida com uma proposta visual elegante e refinada, utilizando indicadores de desempenho (KPIs), gráficos dinâmicos e filtros interativos para facilitar a interpretação dos dados.
+
+🎯 Objetivo
+
+O principal objetivo do projeto é transformar dados comerciais em informações visuais que auxiliem na compreensão do desempenho das vendas e do comportamento de compra dos clientes.
+
+A análise busca responder a perguntas como:
+
+Quais modelos Porsche apresentam maior volume de vendas?
+
+Qual é a receita bruta registrada na base?
+
+Qual é o ticket médio das vendas?
+
+Quais anos de modelo concentram mais vendas?
+
+Como as vendas estão distribuídas entre diferentes estados?
+
+Quais são as formas de pagamento mais utilizadas?
+
+⚙️ Funcionalidades
+
+A dashboard possui filtros interativos para:
+
+🚗 Modelo Porsche;
+
+📅 Ano do modelo (Model Year);
+
+📍 Cidade;
+
+💳 Forma de pagamento.
+
+Os indicadores e gráficos são atualizados automaticamente conforme os filtros selecionados.
+
+Também está disponível a opção Limpar filtros, que permite retornar à visualização geral dos dados.
+
+📊 Indicadores e análises
+
+Indicadores principais (KPIs)
+
+Total de vendas;
+
+Receita bruta;
+
+Ticket médio por veículo;
+
+Ano de modelo com maior concentração de vendas.
+
+Visualizações e análises
+
+Ranking dos modelos Porsche mais vendidos;
+
+Comparação dos principais modelos por estado;
+
+Distribuição das vendas por ano de modelo;
+
+Participação das diferentes formas de pagamento;
+
+Análise regional das vendas;
+
+Tabela com estados de maior volume, modelo líder, ano de modelo líder e ticket médio.
+
+🗂️ Base de dados e metodologia
+
+O projeto utiliza uma planilha Excel contendo registros de vendas de veículos Porsche.
+
+A base trabalhada possui campos relacionados a:
+
+Identificação da venda;
+
+Data da venda;
+
+Modelo e ano do veículo;
+
+Preço de venda;
+
+Quilometragem;
+
+Cidade e estado;
+
+Forma de pagamento;
+
+Status de entrega.
+
+Os dados foram organizados e padronizados para utilização nas análises.
+
+Alguns registros apresentam datas inválidas, identificadas como INVALID. Esses registros são mantidos nas análises que não dependem de informações temporais.
+
+A dashboard utiliza dados incorporados diretamente ao JavaScript, permitindo consultar os indicadores sem necessidade de conexão com um banco de dados externo.
+
+Observação: os resultados representam os registros presentes na base utilizada e não devem ser interpretados como indicadores oficiais de vendas da Porsche.
+
+🛠️ Ferramentas utilizadas
+
+Microsoft Excel: organização e tratamento dos dados;
+
+HTML5: estrutura da dashboard;
+
+CSS3: estilização e apresentação visual;
+
+JavaScript: filtros, cálculos e interatividade;
+
+Chart.js: construção dos gráficos;
+
+GitHub: versionamento e documentação;
+
+GitHub Pages: publicação da dashboard.
+
+📚 Aprendizados
+
+O desenvolvimento deste projeto permitiu aplicar conhecimentos relacionados à preparação e análise de dados, criação de indicadores de desempenho, construção de gráficos e desenvolvimento de dashboards interativas.
+
+A atividade também contribuiu para compreender como informações inicialmente organizadas em planilhas podem ser transformadas em uma solução visual acessível diretamente pelo navegador.
+
+📁 Arquivos do projeto
+
+index.html — Dashboard interativa de análise de vendas.
+
+planilha porch.xlsx — Planilha Excel utilizada como base do projeto.
+
+🌐 Acesso ao projeto
+
+🚀 Visualizar dashboard interativa
+
+📊 Acessar planilha Excel
